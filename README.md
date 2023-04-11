@@ -1,5 +1,4 @@
 # Hi there, I'm Milos! 👋
-
 <!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=skolsic993&show_icons=true&theme=transparent" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skolsic993&hide=php,css&theme=transparent&hide_progress=true" />-->
